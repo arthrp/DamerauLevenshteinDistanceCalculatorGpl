@@ -6,4 +6,17 @@
         <Nullable>enable</Nullable>
     </PropertyGroup>
 
+
+    <PropertyGroup>
+        <PackageId>DamerauLevenshteinDistance-Gpl</PackageId>
+        <Version>1.0.0</Version>
+        <Authors>arthrp</Authors>
+        <TargetFramework>net6.0</TargetFramework>
+        <Title>DamerauLevenshteinDistance-Gpl</Title>
+        <Description>Damerau-Levenshtein distance calculator</Description>
+        <PackageLicenseExpression>GPL-3.0-only</PackageLicenseExpression>
+        <PackageProjectUrl>https://github.com/arthrp/DamerauLevenshteinDistanceCalculatorGpl</PackageProjectUrl>
+        <PackageTags>Damerau–Levenshtein;string edit distance</PackageTags>
+    </PropertyGroup>
+
 </Project>
