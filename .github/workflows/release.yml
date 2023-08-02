@@ -24,4 +24,4 @@ jobs:
       - name: Upload
         uses: softprops/action-gh-release@v1
         with:
-          files: DamerauLevenshteinDistanceCalculatorGpl/out/*.nupkg
+          files: out/*.nupkg
